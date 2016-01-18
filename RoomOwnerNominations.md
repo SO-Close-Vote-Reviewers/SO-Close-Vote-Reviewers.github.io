@@ -2,6 +2,9 @@ This page contains links to the different nominations to join the Room Owner tea
 
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
+## January 2016
+
+
 ## December 2015
 
 - [Sam](https://gist.github.com/ArcticEcho/b5f51feff9ce4567e0dd)
