@@ -1,8 +1,9 @@
-This page contains links to the different nominations to join the Room Owner team on SOCVR.
+This page contains links to the different nominations to join the Room Owner team on SOCVR. Nominations are ordered by their nomination time, oldest first.
 
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
 ## January 2016
+- [Sam](https://gist.github.com/ArcticEcho/117b70de67dadd532980)
 
 
 ## December 2015
@@ -13,6 +14,6 @@ This page contains links to the different nominations to join the Room Owner tea
 
 <!-- put bullet point entries here in the form:
 
-   [Person Name](link to gist)
+- [Person Name](link to gist)
   
 -->
