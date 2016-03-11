@@ -17,6 +17,7 @@ This page contains links to the different nominations to join the Room Owner tea
 - [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb)
 - [Tunaki](https://gist.github.com/Tunaki/d9e140f6ef7c64997ead)
 - [Kevin Guan](https://gist.github.com/K-Guan/d5b3b26b708a9ad94c35)
+- [Ferrybig](https://gist.github.com/ferrybig/f54a1f66f02924f54b0e)
 
 ## January 2016
 - [Sam](https://gist.github.com/ArcticEcho/117b70de67dadd532980)
