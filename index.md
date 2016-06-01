@@ -14,3 +14,10 @@ Testing the site here:
 code?!
 
 ```
+
+
+{% highlight php linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
