@@ -3,4 +3,10 @@ layout: default
 title: Welcome - SOCVR
 ---
 
-Testing stuff again!
+# Welcome to Stack Overflow Close Vote Reviewers
+
+
+See the [FAQ]({% post_url posts/faq.md%})
+
+Why don't your work anymore?
+
