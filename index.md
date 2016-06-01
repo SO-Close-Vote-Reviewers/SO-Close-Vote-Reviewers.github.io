@@ -5,7 +5,7 @@ title: Welcome - SOCVR
 
 # Welcome to Stack Overflow Close Vote Reviewers
 
-[Testing more stuff](http://www.google.com)
+[See the FAQ](/posts/faq.md)
 
 
 
