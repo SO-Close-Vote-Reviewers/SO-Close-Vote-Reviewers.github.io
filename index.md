@@ -3,21 +3,7 @@ layout: default
 title: Welcome - SOCVR
 ---
 
-Testing the site here:
+# Welcome to Stack Overflow Close Vote Reviewers
 
 
-# Works?
-
-
-```php
-
-code?!
-
-```
-
-
-{% highlight php linenos %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
+See the [FAQ]({% post_url posts/faq.md%})
