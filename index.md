@@ -7,7 +7,7 @@ title: Welcome - SOCVR
 
 Testing more stuff
 
-See the [FAQ]({% post_url /posts/faq.md%})
+
 
 Why don't your work anymore?
 
