@@ -21,3 +21,4 @@ title: Welcome - SOCVR
   
  - Links must follow this pattern "{% post_url YEAR-MONTH-DAY-TITLE %}"
  - More information see: https://jekyllrb.com/
+ - YOU WON'T SEE CHANGES IF YOU DID SOMETHING WRONG
