@@ -5,7 +5,7 @@ title: Welcome - SOCVR
 
 # Welcome to Stack Overflow Close Vote Reviewers
 
-[See the FAQ](/_posts/2016-06-02-faq.md)
+[See the FAQ]({% post_url 2016-06-02-faq %})
 
 
 
