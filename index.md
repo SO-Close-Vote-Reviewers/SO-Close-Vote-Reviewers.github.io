@@ -5,6 +5,8 @@ title: Welcome - SOCVR
 
 # Welcome to the Stack Overflow Close Vote Reviewers
 
+[SOCVR Logo]({{ site.url }}/data/logo.png)
+
 The Stack Overflow Close Vote Reviewers is a [chat room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) on Stack Overflow.
 
 The room is about moderation on Stack Overflow including: editing, reopen/close/delete voting, tag cleanup, burnination efforts, coaching/commenting, [\*-pls] requests, reducing the close vote queue and the others, and feeding the roomba.
