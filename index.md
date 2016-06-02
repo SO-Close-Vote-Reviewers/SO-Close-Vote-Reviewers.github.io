@@ -31,10 +31,6 @@ FAQ page
 
 
 
-[See the FAQ]({% post_url 2016-06-02-faq %})
-
-[See the FAQ](/_posts/2016-06-02-faq.md)
-
-Why don't your work anymore?
+[See the FAQ]({% post_url 2016-06-02-faq %}) <!-- This is how you have to do it! -->
 
 
