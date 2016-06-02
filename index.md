@@ -3,34 +3,10 @@ layout: default
 title: Welcome - SOCVR
 ---
 
-# Welcome to Stack Overflow Close Vote Reviewers
+# Welcome to the Stack Overflow Close Vote Reviewers
 
-| Home | Tour | FAQ | Moderation help | --- | 
-| --- | --- | --- | --- | --- |
-| Userscripts | SEDE Queries | Room Meetings | --- | --- |
-| --- | --- | --- | --- | --- |
-| SOCVR History | Celebrations | --- | --- | --- |
+The Stack Overflow Close Vote Reviewers is a [chat room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) on Stack Overflow.
 
- - index page
- - tour page
+The room is mainly about moderation on Stack Overflow including: editing, reopen/close/delete voting, tag cleanup, burnination efforts, coaching/commenting, [cv-pls] requests, reducing the close vote queue and the others, and feeding the roomba.
 
-Useful SEDE queries
-
-Celebration
-
-Room meeting archive
-
-Userscript page
-Useful stuff page
-Moderation help page
-Histroy page
-FAQ page
-
-
-
-
-
-
-[See the FAQ]({% post_url 2016-06-02-faq %}) <!-- This is how you have to do it! -->
-
-
+**Please see the [tour]({% post_url 2016-06-02-tour %}), *before* you practice in the room!** And for more information see the [FAQ]({% post_url 2016-06-02-faq %})
