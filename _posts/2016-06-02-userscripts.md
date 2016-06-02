@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome - SOCVR
+title: Userscripts - SOCVR
 ---
 
 #Userscripts
