@@ -5,7 +5,6 @@ title: Welcome - SOCVR
 
 # Welcome to the Stack Overflow Close Vote Reviewers
 
-[SOCVR Logo]({{ site.url }}/data/logo.png)
 
 The Stack Overflow Close Vote Reviewers is a [chat room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) on Stack Overflow.
 
