@@ -16,4 +16,4 @@ title: XY - SOCVR
   
  - Links to other posts must follow this pattern "{% post_url YEAR-MONTH-DAY-TITLE %}"
  - More information see: https://jekyllrb.com/
- - Make sure you don't make any mistakes otherwise you won't see any chances
+ - Make sure you don't make any mistakes otherwise you won't see any changes
