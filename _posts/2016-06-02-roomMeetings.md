@@ -76,3 +76,14 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 #### 11. Should burnination be officially [undertaken by SOCVR](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md#process) or should a new "Burninators" specialized room handle it?
 
 [I think burninations should not be chatroom dependent. If a chat room wants to donate it's resources, that's great. A meta answer should be the main hub for burnination coordination.](http://chat.stackoverflow.com/rooms/108179/conversation/2016-april-topic-11)
+
+
+## December 2015
+
+The transcript is [here](http://chat.stackoverflow.com/rooms/41570/conversation/december-2015-room-meeting)
+
+
+## November 2015
+
+The transcript is [here](http://chat.stackoverflow.com/rooms/41570/conversation/november-2015-room-meeting)
+
