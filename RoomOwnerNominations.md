@@ -13,6 +13,8 @@ This page contains links to the different nominations to join the Room Owner tea
 
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
+## October 2016
+
 ## March 2016
 - [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb)
 - [Tunaki](https://gist.github.com/Tunaki/d9e140f6ef7c64997ead)
