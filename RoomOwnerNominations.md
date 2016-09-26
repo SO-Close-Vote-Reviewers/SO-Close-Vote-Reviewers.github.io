@@ -4,10 +4,10 @@ Our chat room periodicly looks for new Room Owners.
 
 We use an "application/interview" style for new Room Owners. The workflow works like this:
 
-1. The RO team announces the expantion of the RO team
+1. The RO team announces the expansion of the RO team
 2. Chat members write up a [Github Gist](https://gist.github.com/) of their nomination. This must be written by the person running for the position.
 3. Anyone is free to write comments on the nominations to provide feedback and ask questions.
-4. When nominations close (usualy a week later) the RO team will evaluate the nominations and choose a winner.
+4. When nominations close (usually a week later) the RO team will evaluate the nominations and choose a winner.
 
 This page contains links to the different nominations to join the Room Owner team on SOCVR. Nominations are ordered by their nomination time, oldest first.
 
