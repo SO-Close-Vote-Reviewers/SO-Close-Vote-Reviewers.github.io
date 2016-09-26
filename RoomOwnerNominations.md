@@ -14,6 +14,7 @@ This page contains links to the different nominations to join the Room Owner tea
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
 ## October 2016
+- [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276)
 
 ## March 2016
 - [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb)
