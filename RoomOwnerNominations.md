@@ -15,7 +15,6 @@ This page contains links to the different nominations to join the Room Owner tea
 
 ## October 2016
 - [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276)
-- [FirstStep](https://gist.github.com/anonymous/8ee62e8836b9bbe327b1415fc1fbfe66)
 - [Ryanyuyu](https://gist.github.com/ryanyuyu/d97ac3f0271763daf7c988bc331a7954)
 
 ## March 2016
