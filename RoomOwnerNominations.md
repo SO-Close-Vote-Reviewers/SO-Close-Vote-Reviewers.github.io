@@ -17,6 +17,7 @@ This page contains links to the different nominations to join the Room Owner tea
 - [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276)
 - [FirstStep](https://gist.github.com/KhalilLTU/d1d76d0a8c91b46397883d1b4a3b4f94)
 - [Ryanyuyu](https://gist.github.com/ryanyuyu/d97ac3f0271763daf7c988bc331a7954)
+- [Magisch](https://gist.github.com/magisch/fb524864f23dcfb8fe6910e92bb7a8db)
 
 ## March 2016
 - [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb)
