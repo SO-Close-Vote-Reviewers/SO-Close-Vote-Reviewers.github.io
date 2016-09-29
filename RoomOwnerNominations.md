@@ -19,6 +19,7 @@ This page contains links to the different nominations to join the Room Owner tea
 - [Ryanyuyu](https://gist.github.com/ryanyuyu/d97ac3f0271763daf7c988bc331a7954)
 - [Magisch](https://gist.github.com/magisch/fb524864f23dcfb8fe6910e92bb7a8db)
 - [Yvette](https://gist.github.com/yvettec/6ea301bbad3eb2e85d909e9db4ecc768)
+- [Petter Friberg](https://gist.github.com/jdd-software/f55537155b95a3d0695fde767c0ef669)
 
 ## March 2016
 - [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb)
