@@ -31,7 +31,7 @@ This was a single isolated incident that evolved into a big drama for really not
 
 Just be nice. If you see something flagged and it could be inappropriate respect that someone felt that way and move on. We deal with people of all types from all over the world. There are going to be clashes and people are going to view things differently. Moving forward we just need to be more mindful of what we are saying and we need to not overreact if something gets flagged.
 
-#### [3. Let's stop arguing daily about the appropriateness of close votes on specific questions](https://chat.stackoverflow.com/rooms/108179/conversation/2016-october-topic-3)
+#### 3. [Let's stop arguing daily about the appropriateness of close votes on specific questions](https://chat.stackoverflow.com/rooms/108179/conversation/2016-october-topic-3)
 
 This is pretty much already covered in the FAQ: "4. Avoid extended discussion about a cv-pls. We don’t have to agree about a close request. We’re not a democracy. However, users that are posting cv-pls’es that are blatantly wrong will be told so. The final verdict is on the RO team."
 
