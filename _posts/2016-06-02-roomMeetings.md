@@ -25,7 +25,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 The room is not an English learning site and there was no real issue with this in the past. Each user needs to decide if their English skill is good enough for them to properly operate on Stack Overflow (answering is part of that also). We can always point them at canned reason.
 
-#### 2. [How do we handle motivated users with poor English skills?](https://chat.stackoverflow.com/rooms/108179/conversation/2016-october-topic-2)
+#### 2. ["Be Nice" topic](https://chat.stackoverflow.com/rooms/108179/conversation/2016-october-topic-2)
 
 This was a single isolated incident that evolved into a big drama for really nothing. I think every party involved, including the RO team, understood what went wrong and learned from it. In the future, the ROs will try to be more responding to issues currently rising in chat, but it is important to add that everyone leads by example.
 
