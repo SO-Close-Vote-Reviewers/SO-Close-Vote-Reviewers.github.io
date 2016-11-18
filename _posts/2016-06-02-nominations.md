@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Room Meetings - SOCVR
+title: Room Owners Nominations - SOCVR
 ---
 
 # Room Owner Nominations
