@@ -1,4 +1,9 @@
-# Room Owner Nominations #
+---
+layout: default
+title: Room Meetings - SOCVR
+---
+
+# Room Owner Nominations
 
 Our chat room periodicly looks for new Room Owners.
 
