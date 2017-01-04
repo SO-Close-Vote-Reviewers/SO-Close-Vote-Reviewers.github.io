@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Userscripts - SOCVR
+menu: Userscripts
+tag: tool
 ---
 
 # Userscripts

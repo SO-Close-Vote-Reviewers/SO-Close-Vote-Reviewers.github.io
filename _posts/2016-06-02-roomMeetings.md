@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Room Meetings - SOCVR
+tag: room
+menu: Room Meetings
 ---
 
 # Room Meetings

@@ -23,7 +23,13 @@
     <body>
         
         <div class="container">
-            {% capture my-include %}{% include header.md %}{% endcapture %}
+            {% if page.tag == "room" %}
+                {% capture my-include %}{% include sub_header.md %}{% endcapture %}
+            {% elsif page.tag == "tool" %}
+                {% capture my-include %}{% include sub_header.md %}{% endcapture %}
+            {% else %}
+                {% capture my-include %}{% include header.md %}{% endcapture %}
+            {% endif %}
             {{ my-include | markdownify }}
 
             {{ content }}
