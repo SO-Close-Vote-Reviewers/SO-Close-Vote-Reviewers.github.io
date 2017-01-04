@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Celebrations - SOCVR
+menu: Celebrations
+tag: room
 ---
 
 # Celebrations

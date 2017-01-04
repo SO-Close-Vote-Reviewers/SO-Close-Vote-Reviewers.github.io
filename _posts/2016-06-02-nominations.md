@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Room Owners Nominations - SOCVR
+menu: Nominations
+tag: room
 ---
 
 # Room Owner Nominations

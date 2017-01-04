@@ -1,0 +1,1 @@
+| [**Home**]({{ site.url }}/) | {% for post in site.posts %}{% if post.tag == page.tag %} | [**{{ post.menu }}**]({{ post.url }} ) | {% endif %}{% endfor %}
