@@ -2,6 +2,7 @@
 layout: default
 title: Moderation Help
 main: Tips & Tricks
+permalink: moderationHelp
 ---
 
 # Moderation Help
