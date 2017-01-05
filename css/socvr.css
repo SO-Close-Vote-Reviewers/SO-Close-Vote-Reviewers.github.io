@@ -17,11 +17,12 @@ th, td {
 }
 
 a {
-  color: #2a6496;
+  color: #0024b5;
   text-decoration: none;
 }
 
 a:focus,a:hover {
+  color: #2a6496;
   text-decoration: underline;
 }
 
