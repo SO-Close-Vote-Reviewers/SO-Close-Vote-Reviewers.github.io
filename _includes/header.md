@@ -1,1 +1,1 @@
-| [**Home**]({{ site.url }}/)	| [**Tour**]({% post_url 2016-06-02-tour %}) | [**FAQ**]({% post_url 2016-06-02-faq %}) | [**Moderation Help**]({% post_url 2016-06-02-moderationHelp %}) | [**Tools**]({% post_url 2016-06-02-userscripts %}) | [**Room Info**]({% post_url  2016-06-02-history %}) | 
+| [**Home**]({{ site.url }}/) {% for post in site.posts %}{% if post.main  %} | [**{{ post.main }}**]({{ post.url }} )  {% endif %}{% endfor %} |

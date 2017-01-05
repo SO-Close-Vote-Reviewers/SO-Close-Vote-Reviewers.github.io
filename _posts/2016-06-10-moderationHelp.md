@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Moderation Help - SOCVR
+title: Moderation Help
+main: Tips & Tricks
 ---
 
 # Moderation Help

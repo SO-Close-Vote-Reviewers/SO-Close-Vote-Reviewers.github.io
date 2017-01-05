@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>{{ page.title }}</title>
+        <title>{{ page.title }} - SOCVR</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,12 +21,13 @@
     </head>
 
     <body>
-        
         <div class="container">
-            {% if page.tag == "room" %}
-                {% capture my-include %}{% include sub_header.md %}{% endcapture %}
-            {% elsif page.tag == "tool" %}
-                {% capture my-include %}{% include sub_header.md %}{% endcapture %}
+            {% if page.categories contains "room"  or page.categories contains "tools" %}
+                {% if page.categories contains "meetings" %}
+                   {% capture my-include %}{% include meetings_header.md %}{% endcapture %}
+                {% else %}
+                   {% capture my-include %}{% include sub_header.md %}{% endcapture %}
+                {% endif %}
             {% else %}
                 {% capture my-include %}{% include header.md %}{% endcapture %}
             {% endif %}
@@ -34,6 +35,5 @@
 
             {{ content }}
         </div>
-        
     </body>
 </html>
