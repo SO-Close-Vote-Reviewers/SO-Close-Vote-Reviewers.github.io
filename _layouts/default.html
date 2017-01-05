@@ -7,33 +7,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <!-- From: "Benoit Schweblin" MIT license -->
-        <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+        <link rel="stylesheet" href="{{ "/css/socvr.css" | relative_url }}" />
         <link rel="icon" type="image/x-icon" href="/favicon.ico?">
-        
-        <style>
-            a {
-                color: #0024b5;
-            }
-            h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-                font-weight: 400;
-            }
-            td 
-            {
-                width: 120px;
-            }
-            table{
-                margin-bottom: 0px;
-            }
-            div#submenu td
-            {
-                border-top: 0px;
-            }
-            div#submenu
-            {
-                margin-bottom: 20px;
-            }
-
-        </style>
     </head>
 
     <body>
@@ -51,7 +26,7 @@
                {% comment %}  {% capture my-include %}{% include header.md %}{% endcapture %}  {% endcomment %}
             {% endif %}
             <div id="submenu">
-            {{ my-include | markdownify }}
+             {{ my-include | markdownify }}
             </div>
             {{ content }}
         </div>
