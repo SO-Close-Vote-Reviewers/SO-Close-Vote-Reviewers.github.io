@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome - SOCVR
+title: Welcome
 ---
 
 # Welcome to the Stack Overflow Close Vote Reviewers

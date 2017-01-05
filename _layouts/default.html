@@ -17,11 +17,30 @@
             h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
                 font-weight: 400;
             }
+            td 
+            {
+                width: 120px;
+            }
+            table{
+                margin-bottom: 0px;
+            }
+            div#submenu td
+            {
+                border-top: 0px;
+            }
+            div#submenu
+            {
+                margin-bottom: 20px;
+            }
+
         </style>
     </head>
 
     <body>
         <div class="container">
+
+            {% capture my-hdr %}{% include header.md %}{% endcapture %}
+            {{ my-hdr | markdownify }}
             {% if page.categories contains "room"  or page.categories contains "tools" %}
                 {% if page.categories contains "meetings" %}
                    {% capture my-include %}{% include meetings_header.md %}{% endcapture %}
@@ -29,10 +48,11 @@
                    {% capture my-include %}{% include sub_header.md %}{% endcapture %}
                 {% endif %}
             {% else %}
-                {% capture my-include %}{% include header.md %}{% endcapture %}
+               {% comment %}  {% capture my-include %}{% include header.md %}{% endcapture %}  {% endcomment %}
             {% endif %}
+            <div id="submenu">
             {{ my-include | markdownify }}
-
+            </div>
             {{ content }}
         </div>
     </body>

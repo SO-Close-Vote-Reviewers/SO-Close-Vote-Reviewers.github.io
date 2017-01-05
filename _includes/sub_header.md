@@ -1,1 +1,1 @@
-| [**Home**]({{ site.url }}/) {% for post in site.posts %}{% if post.categories == page.categories %} | [**{{ post.menu }}**]({{ post.url }} ) {% endif %}{% endfor %} |
+{% for post in site.posts %}{% if post.categories == page.categories %} | [**{{ post.menu }}**]({{ post.url }} ) {% endif %}{% endfor %} |
