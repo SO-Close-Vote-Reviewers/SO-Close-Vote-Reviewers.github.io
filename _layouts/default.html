@@ -13,20 +13,15 @@
 
     <body>
         <div class="container">
-
-            {% capture my-hdr %}{% include header.md %}{% endcapture %}
-            {{ my-hdr | markdownify }}
+            {% include header.html %}
+            <div id="submenu">
             {% if page.categories contains "room"  or page.categories contains "tools" %}
                 {% if page.categories contains "meetings" %}
-                   {% capture my-include %}{% include meetings_header.md %}{% endcapture %}
+                   {% include meetings_header.html %}
                 {% else %}
-                   {% capture my-include %}{% include sub_header.md %}{% endcapture %}
+                   {% include sub_header.html %}
                 {% endif %}
-            {% else %}
-               {% comment %}  {% capture my-include %}{% include header.md %}{% endcapture %}  {% endcomment %}
             {% endif %}
-            <div id="submenu">
-             {{ my-include | markdownify }}
             </div>
             {{ content }}
         </div>

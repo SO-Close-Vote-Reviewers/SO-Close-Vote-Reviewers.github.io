@@ -1,1 +1,0 @@
-{% for post in site.posts %}{% if post.categories contains "room" %}{% unless post.categories contains "meetings" %} | [**{{ post.menu }}**]({{ post.url }} ) {% endunless%} {% endif %}{% endfor %} |

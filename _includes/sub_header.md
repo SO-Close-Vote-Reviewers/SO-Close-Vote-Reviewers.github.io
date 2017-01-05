@@ -1,1 +1,0 @@
-{% for post in site.posts %}{% if post.categories == page.categories %} | [**{{ post.menu }}**]({{ post.url }} ) {% endif %}{% endfor %} |

@@ -1,1 +1,0 @@
-| [**Home**]({{ site.url }}/) {% for post in site.posts %}{% if post.main  %} | [**{{ post.main }}**]({{ post.url }} )  {% endif %}{% endfor %} |
