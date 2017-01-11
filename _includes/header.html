@@ -3,7 +3,7 @@
   <td><a href="{{ site.url }}/"><strong>Home</strong></a></td>
   {% for post in site.posts %}
     {% if post.main  %} 
-    	<td><a href="{{ post.url}}/"><strong>{{ post.main }}</strong></a></td>  
+    	<td><a href="{{ site.url }}{{ post.url }}"><strong>{{ post.main }}</strong></a></td>  
     {% endif %}
   {% endfor %} 
 </tr>
