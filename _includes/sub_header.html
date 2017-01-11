@@ -1,7 +1,7 @@
 <table>
 <tr>
   {% for post in site.posts %}
-    {% if post.categories == page.categories  %} 
+    {% if post.categories == page.categories  %}
     	<td><a href="{{ post.url}}"><strong>{{ post.menu }}</strong></a></td>  
     {% endif %}
   {% endfor %} 
