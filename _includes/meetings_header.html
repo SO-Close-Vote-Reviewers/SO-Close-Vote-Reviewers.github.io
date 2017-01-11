@@ -1,0 +1,11 @@
+<table>
+<tr>
+  {% for post in site.posts %}
+    {% if post.categories contains "room"  %}
+      {% unless post.categories contains "meetings" %} 
+    	<td><a href="{{ post.url}}/"><strong>{{ post.menu }}</strong></a></td>  
+      {% endunless%}
+    {% endif %}
+  {% endfor %} 
+</tr>
+</table> 

@@ -1,0 +1,36 @@
+body {
+  font-family: "Calibri", "Times New Roman", Times, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 6vw 0;
+  margin: 0 auto 15px auto;
+}
+th, td {
+  padding: 0;
+}
+
+a {
+  color: #0024b5;
+  text-decoration: none;
+}
+
+a:focus,a:hover {
+  color: #2a6496;
+  text-decoration: underline;
+}
+
+#submenu {
+  margin-bottom: 50px;
+}
+
+#submenu table {
+   border-top: thin solid gray;
+   padding-top: 15px;
+}

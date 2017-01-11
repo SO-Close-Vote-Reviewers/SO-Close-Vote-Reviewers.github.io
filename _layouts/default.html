@@ -1,39 +1,29 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>{{ page.title }}</title>
+        <title>{{ page.title }} - SOCVR</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <!-- From: "Benoit Schweblin" MIT license -->
-        <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+        <link rel="stylesheet" href="{{ "/css/socvr.css" | relative_url }}" />
         <link rel="icon" type="image/x-icon" href="/favicon.ico?">
-        
-        <style>
-            a {
-                color: #0024b5;
-            }
-            h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-                font-weight: 400;
-            }
-        </style>
     </head>
 
     <body>
-        
         <div class="container">
-            {% if page.tag == "room" %}
-                {% capture my-include %}{% include sub_header.md %}{% endcapture %}
-            {% elsif page.tag == "tool" %}
-                {% capture my-include %}{% include sub_header.md %}{% endcapture %}
-            {% else %}
-                {% capture my-include %}{% include header.md %}{% endcapture %}
+            {% include header.html %}
+            <div id="submenu">
+            {% if page.categories contains "room"  or page.categories contains "tools" %}
+                {% if page.categories contains "meetings" %}
+                   {% include meetings_header.html %}
+                {% else %}
+                   {% include sub_header.html %}
+                {% endif %}
             {% endif %}
-            {{ my-include | markdownify }}
-
+            </div>
             {{ content }}
         </div>
-        
     </body>
 </html>
