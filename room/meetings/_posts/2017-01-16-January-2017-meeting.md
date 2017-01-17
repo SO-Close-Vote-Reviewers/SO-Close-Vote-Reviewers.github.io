@@ -22,7 +22,7 @@ title: January 2017
 
 #### 1. [Do we need to watch our tone more?](http://chat.stackoverflow.com/rooms/108179/conversation/2017-january-topic-1)
 
-Stick to the prescribed CV reasons when making requests, don't use deconstructive language when describing a question. We already require members to act professionally and with a high standard.
+Stick to the prescribed CV reasons when making requests, and always use constructive language when describing a question. We already require members to act professionally and with a high standard.
 
 #### 2. [Do we still want to engage in burnination requests?](http://chat.stackoverflow.com/rooms/108179/conversation/2017-january-topic-2)
 
