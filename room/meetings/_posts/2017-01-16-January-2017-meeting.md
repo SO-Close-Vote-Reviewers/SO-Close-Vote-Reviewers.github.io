@@ -26,13 +26,13 @@ Stick to the prescribed CV reasons when making requests, and always use construc
 
 #### 2. [Do we still want to engage in burnination requests?](http://chat.stackoverflow.com/rooms/108179/conversation/2017-january-topic-2)
 
-No for anything longer than a week to finish. Meta has no invested support in burnination requests. "Help" from their end comes and goes like the wind. We wrote the FAQ entry for how burnination processes work, and we've been the only ones doing anything about it. We can take on <=500 post burninations (that meet site requirements), anything more we'll have to talk about
+No for anything longer than a week to finish. Meta has no invested support in burnination requests. "Help" from their end comes and goes like the wind. We wrote the FAQ entry for how burnination processes work, and we've been the only ones doing anything about it. We can take on &le; 500 post burninations (that meet site requirements), anything more we'll have to talk about
 
 Let's have fun with some burnination, smaller ones, where less frustration builds and instead we feel fulfillment.
 
 #### 3. [We should have a way to disagree with vote requests, and move them to the graveyard if enough people agree](http://chat.stackoverflow.com/rooms/108179/conversation/2017-january-topic-3)
 
-Yes, the functionality is wanted. Possible implementation: Have a formatted response like ": Disagree. ". The graveyard script should also archive disagreements. Tracking through editing is not always a practical solution.
+Yes, the functionality is wanted. Possible implementation: Have a formatted response like `:<message ID> Disagree. <reasoning>`. The graveyard script should also archive disagreements. Tracking through editing is not always a practical solution.
 
 #### 4. [Should we remove the room's events from the calendar?](http://chat.stackoverflow.com/rooms/108179/conversation/2017-january-topic-4)
 
