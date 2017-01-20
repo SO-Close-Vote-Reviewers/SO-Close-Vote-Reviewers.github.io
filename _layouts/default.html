@@ -1,29 +1,31 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>{{ page.title }} - SOCVR</title>
-        
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        <!-- From: "Benoit Schweblin" MIT license -->
-        <link rel="stylesheet" href="{{ "/css/socvr.css" | relative_url }}" />
-        <link rel="icon" type="image/x-icon" href="/favicon.ico?">
-    </head>
+  <head>
+    <title>{{ page.title }} - SOCVR</title>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <body>
-        <div class="container">
-            {% include header.html %}
-            <div id="submenu">
-            {% if page.categories contains "room"  or page.categories contains "tools" %}
-                {% if page.categories contains "meetings" %}
-                   {% include meetings_header.html %}
-                {% else %}
-                   {% include sub_header.html %}
-                {% endif %}
-            {% endif %}
-            </div>
-            {{ content }}
-        </div>
-    </body>
+    <link rel="stylesheet" href="{{ "/css/socvr.css" | relative_url }}" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico?">
+  </head>
+
+  <body>
+    <div class="container">
+      {% include header.html %}
+      <div id="submenu">
+      {% if page.categories contains "room"  or page.categories contains "tools" %}
+        {% if page.categories contains "meetings" %}
+           {% include meetings_header.html %}
+        {% else %}
+           {% include sub_header.html %}
+        {% endif %}
+      {% endif %}
+      </div>
+      {{ content }}
+      <footer>
+        <span><a href="https://github.com/SO-Close-Vote-Reviewers/SO-Close-Vote-Reviewers.github.io">Back to GitHub</a></span>
+      </footer>
+    </div>
+  </body>
 </html>

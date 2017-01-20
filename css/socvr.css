@@ -5,6 +5,7 @@ body {
 .container {
   width: 80%;
   margin: 0 auto;
+  min-height: 100%;
 }
 
 table {
@@ -33,4 +34,11 @@ a:focus,a:hover {
 #submenu table {
    border-top: thin solid gray;
    padding-top: 15px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 30px;
+  font-size: 0.75rem;
 }
