@@ -30,5 +30,7 @@ Find the full list [here](https://github.com/SO-Close-Vote-Reviewers/UserScripts
 
 ### Endorsed scripts
 
+ - [AutoReviewComments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
+   - for use with our collection of [comments](https://github.com/SO-Close-Vote-Reviewers/auto-comments)
  - [Roomba Forecaster](https://github.com/makyen/StackExchange-userscripts/tree/master/Roomba-Forecaster) 
    - Tells the user if the question is eligible for being deleted by the [Roomba](http://stackoverflow.com/help/roomba).
