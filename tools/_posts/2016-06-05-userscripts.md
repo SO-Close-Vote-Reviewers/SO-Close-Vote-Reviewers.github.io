@@ -22,3 +22,8 @@ There are a bunch of useful userscripts for Stack Overflow out there. And we eve
    - adds keyboard shortcuts in the /review/close view and close dialog so your hands have never leave the keyboard   
 
 [How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
+
+### Endorsed scripts
+
+ - [Roomba Forecaster](https://github.com/makyen/StackExchange-userscripts/tree/master/Roomba-Forecaster) 
+   - Tells the user if the question is eligible for being deleted by the [Roomba](http://stackoverflow.com/help/roomba).
