@@ -8,7 +8,13 @@ permalink: userscripts
 
 # Userscripts
 
-There are a bunch of useful userscripts for Stack Overflow out there. And we even got a few [our owns](https://github.com/SO-Close-Vote-Reviewers/UserScripts)!
+There are a bunch of useful userscripts for Stack Overflow out there. Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a plugin, for example [Tamper Monkey](https://tampermonkey.net/) or [Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+
+[How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
+
+### Our own scripts
+
+Find the full list [here](https://github.com/SO-Close-Vote-Reviewers/UserScripts)!
 
  - [\*-pls Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js)
    -  adds a link under a question so you can send a cv-pls to a chatroom  
@@ -21,7 +27,6 @@ There are a bunch of useful userscripts for Stack Overflow out there. And we eve
  - [Close Vote Review Shortcuts](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js)
    - adds keyboard shortcuts in the /review/close view and close dialog so your hands have never leave the keyboard   
 
-[How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
 
 ### Endorsed scripts
 
