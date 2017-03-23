@@ -8,7 +8,7 @@ permalink: userscripts
 
 # Userscripts
 
-There are a bunch of useful userscripts for Stack Overflow out there. Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a plugin, for example [Tamper Monkey](https://tampermonkey.net/) or [Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+There are a bunch of useful userscripts for Stack Overflow out there. Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a plugin, for example [Tamper Monkey](https://tampermonkey.net/) or [Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (we have no preference which one you use but most of the Chrome users are using TamperMonkey, whereas the Firefox adepts use GreaseMonkey)
 
 [How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
 
